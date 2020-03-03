@@ -1,8 +1,8 @@
 {
-  "name": "eventemitter4",
+  "name": "eventemitter10",
   "version": "1.0.0",
-  "description": "EventEmitter4 - Because there's also a number 3. And I haven't figured out what's new.",
-  "main": "EventEmitter4.js",
+  "description": "EventEmitter10 - Because there are also number 3 to 9! And I haven't figured out what's new.",
+  "main": "EventEmitter10.js",
   "repository": "git@github.com:vivimee/EventEmitter4.git",
   "author": "vivimee <vivimee@163.com>",
   "license": "MIT"
