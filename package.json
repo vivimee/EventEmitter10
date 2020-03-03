@@ -1,9 +1,10 @@
 {
   "name": "eventemitter10",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EventEmitter10 - Because there are also number 3 to 9! And I haven't figured out what's new.",
   "main": "EventEmitter10.js",
-  "repository": "git@github.com:vivimee/EventEmitter4.git",
+  "repository": "https://github.com/vivimee/EventEmitter10",
+  "homepage": "https://github.com/vivimee/EventEmitter10",
   "author": "vivimee <vivimee@163.com>",
   "license": "MIT"
 }
